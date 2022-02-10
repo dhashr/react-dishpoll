@@ -1,0 +1,120 @@
+/* header */
+#h1_name{
+    padding: 5px;
+    margin-left: 1cm;
+}
+
+/* login form */
+.overlay{
+    background-color: #fff;
+	border-radius: 10px 0 0 10px;
+  	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 
+			0 10px 10px rgba(0,0,0,0.22);
+    background: #FF416C;
+	background: -webkit-linear-gradient(to right, #FF4B2B, #FF416C);
+	background: linear-gradient(to right, #FF4B2B, #FF416C);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 0 0;
+	color: #FFFFFF;
+	position: absolute;
+	overflow: hidden;
+    margin: 50px 4.1cm;
+    margin-bottom: 100px;
+	width: 420px;
+	min-height: 500px;
+}
+.overlay-login-left{
+    margin: 5cm 50px;
+    position: absolute;
+}
+#p1{
+    margin: 3.2cm 0;
+    position: absolute;
+}
+#signup-lp{
+    margin: 4cm 2cm;
+    position: absolute;
+}
+.form-container-login{
+    background-color: #fff;
+	border-radius: 0 10px 10px 0;
+  	box-shadow: 0 0px 5px rgba(0,0,0,0.25), 
+			0 0px 0px rgba(0,0,0,0.22);
+	position: absolute;
+	overflow: hidden;
+    margin: 50px 15.2cm;
+    margin-bottom: 100px;
+	width: 420px;
+	min-height: 500px;
+}
+#p2{
+    margin: 60px 50px;
+}
+.login-form{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    height: 1cm;
+    width: 8.5cm;
+    margin: 10px 50px;
+}
+#p3{
+    margin-left: 4cm;
+}
+#google{
+    height: 30px;
+    width: 7cm;
+    margin: 0 30px;
+}
+#login-btn{
+    width: 2.5cm;
+    margin-left: 6cm;
+}
+/* tabpage */
+#tabpage{
+    padding: 10px;
+    display: flex;
+}
+
+/* mainpage */
+h1{
+    padding: 5px;
+}
+h3{
+    padding: 5px;
+    margin: -5px 1.5cm;
+}
+.containers{
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 100px;
+    row-gap: 230px;
+
+}
+.container-box{
+   height: 6cm;
+   width: 6cm;
+   margin: 20px 75px 0 30px;
+}
+h2{
+    margin: 0px;
+}
+h5{
+    margin: 0px;
+}
+button{
+    padding: 5px;
+    margin: 5px 7cm;
+}
+/* rankingpage */
+.selected-container{
+    padding: 10px;
+    display: flex;
+    gap: 25px;
+}
+#res-btn{
+    padding: 5px;
+    margin: 275px 1cm;
+}
